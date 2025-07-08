@@ -24,7 +24,7 @@ I am a passionate **Full Stack Flutter Developer** with a strong focus on buildi
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/syed-faizan-rasool)
+- [LinkedIn](www.linkedin.com/in/syed-faizan-rasool-318bb1277)
 - 📧 Email: [faizanworkx@gmail.com](mailto:faizanworkx@gmail.com) | [syedfaizanrasool4@gmail.com](mailto:syedfaizanrasool4@gmail.com)
 
 ---
